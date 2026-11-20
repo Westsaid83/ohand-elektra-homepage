@@ -1,0 +1,3 @@
+:HL["/ohand-elektra-homepage/_next/static/chunks/29xt4645hcmu6.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"DtMsOZnb5_pTug7dk_-DO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
